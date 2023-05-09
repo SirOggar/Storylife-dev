@@ -1,0 +1,32 @@
+{
+  "item.storylife.wallet": "Portefeuille",
+  "item.storylife.credit_card": "Carte de crédit",
+  "item.storylife.one_cent": "1ct",
+  "item.storylife.two_cent": "2ct",
+  "item.storylife.five_cent": "5ct",
+  "item.storylife.ten_cent": "10cent",
+  "item.storylife.twenty_cent": "20ct",
+  "item.storylife.fifty_cent": "50ct",
+  "item.storylife.one_euro": "1€",
+  "item.storylife.two_euro": "2€",
+  "item.storylife.five_euro": "5€",
+  "item.storylife.ten_euro": "10€",
+  "item.storylife.twenty_euro": "20€",
+  "item.storylife.fifty_euro": "50€",
+  "item.storylife.one_hundred_euro": "100€",
+  "item.storylife.two_hundred_euro": "200€",
+  "item.storylife.five_hundred_euro": "500€",
+
+  "item.storylife.driver_license": "Permis de conduire",
+  "item.storylife.agricultural_license": "Permis agricole",
+  "item.storylife.hunting_license": "Permis de chasse",
+  "item.storylife.lumberjack_license": "Permis de bûcheron",
+  "item.storylife.fishing_license": "Permis de pêche",
+  "item.storylife.miner_license": "Permis de mineur",
+  "item.storylife.gun_license": "Permis d'armes à feu",
+  "item.storylife.id_card": "Carte d'identité",
+
+  "creativemodetab.moneys_tab": "Argents",
+  "creativemodetab.papers_tab": "Papiers"
+
+}
